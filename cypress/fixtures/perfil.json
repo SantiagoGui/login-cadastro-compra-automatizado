@@ -1,0 +1,15 @@
+{
+    "usuario": "usu@ario",
+    "senha" : "12345678",
+    "senhaInvalida":"errorfail",
+
+    "usuarioCadastro" : "pessoa",
+    "lastName" : "Silva",
+    "endereco" : "rua nova",
+    "estado" : "PE",
+    "cidade" : "Recife"
+    
+
+    
+
+}
